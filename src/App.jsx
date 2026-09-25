@@ -811,7 +811,7 @@ export default function App() {
       <header className="header">
         <div className="brand-section">
           <div className="logo">
-            POKÉDEX
+            POKÉDEX SYNC
           </div>
 
           <span className="count">

@@ -1048,8 +1048,6 @@ button {
   color: #FFFFFF;
 }
 
-/* RESPONSIVE */
-
 @media (min-width: 600px) {
   .pokemon-grid {
     grid-template-columns: repeat(
